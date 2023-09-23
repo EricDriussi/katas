@@ -5,6 +5,7 @@
 !**/src/main/**/build/
 !**/src/test/**/build/
 **/node_modules/**
+**/__pycache__/**
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
