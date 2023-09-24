@@ -6,7 +6,7 @@
 !**/src/test/**/build/
 **/node_modules/**
 **/__pycache__/**
-sbt.json
+**/.bsp/**
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
