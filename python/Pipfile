@@ -6,7 +6,9 @@ name = "pypi"
 [packages]
 
 [dev-packages]
-pytest = "*"
+black = "~=22.6"
+flake8 = "~=4.0"
+pytest = "~=7.1"
 
 [requires]
 python_version = "3.11"
